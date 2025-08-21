@@ -28,8 +28,8 @@ La idea es mantener una base común y modular para no reinventar la rueda en cad
 
 ## 🌐 Sitios y despliegues
 
-- [Landing principal](https://vasa.me)
-- [Landing Chapter 39](https://chapter-39.vasa.me)
+- [Landing principal](https://chapter-39.vasa.me)
+- [Landing personal](https://vasa.me)
 
 ---
 
