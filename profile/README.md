@@ -1,6 +1,6 @@
 # Chapter 39
 
-🚀 **Chapter 39** es un conjunto de plantillas y utilidades para acelerar el desarrollo de aplicaciones modernas.  
+🚀 **Chapter 39** es un conjunto de plantillas y utilidades para acelerar el desarrollo de aplicaciones modernas.
 La idea es mantener una base común y modular para no reinventar la rueda en cada proyecto.
 
 ---
@@ -19,16 +19,16 @@ La idea es mantener una base común y modular para no reinventar la rueda en cad
 
 ## 🎯 Objetivo
 
-- Reducir la fricción al empezar un nuevo proyecto.  
-- Unificar estilos, tipados y buenas prácticas.  
-- Mantener repos públicos para aprovechar servicios gratuitos.  
+- Reducir la fricción al empezar un nuevo proyecto.
+- Unificar estilos, tipados y buenas prácticas.
+- Mantener repos públicos para aprovechar servicios gratuitos.
 - Iterar sobre un ecosistema vivo, no proyectos aislados.
 
 ---
 
 ## 🌐 Sitios y despliegues
 
-- [Landing principal](https://chapter-39.vasa.me) *(cuando esté activa)*  
+- [Landing principal](https://chapter-39.vasa.me) _(cuando esté activa)_
 - Subdominios por proyecto (ej: `solvo.vasa.me`)
 
 ---
@@ -45,7 +45,7 @@ La idea es mantener una base común y modular para no reinventar la rueda en cad
 
 ## 📌 Estado
 
-Proyecto en construcción. Plantillas vivas, iteración constante.  
+Proyecto en construcción. Plantillas vivas, iteración constante.
 Si te gusta curiosear, entra a cualquiera de los repos y verás que todo está diseñado para **copiar, adaptar y desplegar** sin líos.
 
 ---
