@@ -1,51 +1,51 @@
 # Chapter 39
 
-🚀 **Chapter 39** es un conjunto de plantillas y utilidades para acelerar el desarrollo de aplicaciones modernas.
-La idea es mantener una base común y modular para no reinventar la rueda en cada proyecto.
+🚀 **Chapter 39** is a set of templates and utilities to accelerate app development.
+The goal is to keep a common, modular foundation so we don't reinvent the wheel on every project.
 
 ---
 
-## 🔹 Repositorios principales
+## 🔹 Main repositories
 
-- **shared-template** → Estilos y utilidades compartidas (SCSS, tipos, etc.)
-- **minimal-template** → Base mínima en JavaScript para empezar rápido.
-- **landing-template** → Plantilla para landings estáticas (GitHub Pages listo).
-- **design-template** → Componentes UI y sistema de diseño.
-- **app-template** → Plantilla para aplicaciones frontend completas.
-- **backend-template** → Plantilla para backends con Node.js.
-- **docs** → Documentación interna y notas.
-
----
-
-## 🎯 Objetivo
-
-- Reducir la fricción al empezar un nuevo proyecto.
-- Unificar estilos, tipados y buenas prácticas.
-- Mantener repos públicos para aprovechar servicios gratuitos.
-- Iterar sobre un ecosistema vivo, no proyectos aislados.
+- **shared-template** → Shared styles and utilities (SCSS, types, etc.)
+- **minimal-template** → Minimal JavaScript base to get started quickly.
+- **landing-template** → Static landing template (ready for GitHub Pages).
+- **design-template** → UI components and design system.
+- **app-template** → Template for full frontend applications.
+- **backend-template** → Template for Node.js backends.
+- **docs** → Internal documentation and notes.
 
 ---
 
-## 🌐 Sitios y despliegues
+## 🎯 Goals
 
-- [Landing principal](https://c39.vasa.me)
-- [Landing personal](https://vasa.me)
+- Reduce friction when starting new projects.
+- Unify styles, types, and best practices.
+- Keep public repos to leverage free services.
+- Iterate on a living ecosystem, not isolated projects.
 
 ---
 
-## 🛠️ Tecnologías
+## 🌐 Sites and deployments
+
+- [Main landing](https://c39.vasa.me)
+- [Personal landing](https://vasa.me)
+
+---
+
+## 🛠️ Technologies
 
 - **JavaScript / TypeScript**
-- **SCSS** para estilos compartidos
-- **Node.js** en backend
-- **GitHub Actions** para CI/CD
-- **Vitest / Jest** para testing
+- **SCSS** for shared styles
+- **Node.js** for backend
+- **GitHub Actions** for CI/CD
+- **Vitest / Jest** for testing
 
 ---
 
-## 📌 Estado
+## 📌 Status
 
-Proyecto en construcción. Plantillas vivas, iteración constante.
-Si te gusta curiosear, entra a cualquiera de los repos y verás que todo está diseñado para **copiar, adaptar y desplegar** sin líos.
+Work in progress. Live templates, constant iteration.
+If you like to explore, jump into any repo — everything is designed to be **copied, adapted, and deployed** with minimal fuss.
 
 ---
