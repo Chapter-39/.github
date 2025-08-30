@@ -7,13 +7,14 @@ The goal is to keep a common, modular foundation so we don't reinvent the wheel 
 
 ## 🔹 Main repositories
 
-- **shared-template** → Shared styles and utilities (SCSS, types, etc.)
-- **minimal-template** → Minimal JavaScript base to get started quickly.
-- **landing-template** → Static landing template (ready for GitHub Pages).
-- **design-template** → UI components and design system.
-- **app-template** → Template for full frontend applications.
-- **backend-template** → Template for Node.js backends.
-- **docs** → Internal documentation and notes.
+- **.github** → [github.com/Chapter-39/.github](https://github.com/Chapter-39/.github) (🪿 Public repo)
+- **app-template** → [github.com/Chapter-39/app-template](https://github.com/Chapter-39/app-template) (🦆 Public template)
+- **backend-template** → [github.com/Chapter-39/backend-template](https://github.com/Chapter-39/backend-template) (🦆 Public template)
+- **design-template** → [github.com/Chapter-39/design-template](https://github.com/Chapter-39/design-template) (🦆 Public template)
+- **docs** → [github.com/Chapter-39/docs](https://github.com/Chapter-39/docs) (🦉 Private repo)
+- **landing-template** → [github.com/Chapter-39/landing-template](https://github.com/Chapter-39/landing-template) (🦆 Public template)
+- **minimal-template** → [github.com/Chapter-39/minimal-template](https://github.com/Chapter-39/minimal-template) (🦆 Public template)
+- **shared-template** → [github.com/Chapter-39/shared-template](https://github.com/Chapter-39/shared-template) (🦆 Public template)
 
 ---
 
