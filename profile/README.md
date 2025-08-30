@@ -40,7 +40,7 @@ The goal is to keep a common, modular foundation so we don't reinvent the wheel 
 - **SCSS** for shared styles
 - **Node.js** for backend
 - **GitHub Actions** for CI/CD
-- **Vitest / Jest** for testing
+- **Vitest** for unit tests; **Playwright** for E2E
 
 ---
 
