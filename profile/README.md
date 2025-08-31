@@ -1,6 +1,6 @@
 # Chapter 39
 
-🚀 **Chapter 39** is a set of templates and utilities to accelerate app development.
+**Chapter 39** is a set of templates and utilities to accelerate app development.
 The goal is to keep a common, modular foundation so we don't reinvent the wheel on every project.
 
 ---
