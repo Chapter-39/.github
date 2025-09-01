@@ -5,7 +5,7 @@ The goal is to keep a common, modular foundation so we don't reinvent the wheel 
 
 ---
 
-## 🔹 Main repositories
+## 🔹 Repositories
 
 - **.github** → [github.com/Chapter-39/.github](https://github.com/Chapter-39/.github) (🪿 Public repo)
 - **app-template** → [github.com/Chapter-39/app-template](https://github.com/Chapter-39/app-template) (🦆 Public template)
@@ -30,6 +30,7 @@ The goal is to keep a common, modular foundation so we don't reinvent the wheel 
 ## 🌐 Sites and deployments
 
 - [Main landing](https://c39.vasa.me)
+- [Web app](https://wa-c39.vasa.me)
 - [Personal landing](https://vasa.me)
 
 ---
@@ -39,6 +40,7 @@ The goal is to keep a common, modular foundation so we don't reinvent the wheel 
 - **JavaScript / TypeScript**
 - **SCSS** for shared styles
 - **Node.js** for backend
+- **Vue 3** for frontend
 - **GitHub Actions** for CI/CD
 - **Vitest** for unit tests; **Playwright** for E2E
 
