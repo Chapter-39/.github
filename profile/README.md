@@ -7,14 +7,12 @@ The goal is to keep a common, modular foundation so we don't reinvent the wheel 
 
 ## 🔹 Repositories
 
-- **.github** → [github.com/Chapter-39/.github](https://github.com/Chapter-39/.github) (🪿 Public repo)
-- **app-template** → [github.com/Chapter-39/app-template](https://github.com/Chapter-39/app-template) (🦆 Public template)
-- **backend-template** → [github.com/Chapter-39/backend-template](https://github.com/Chapter-39/backend-template) (🦆 Public template)
-- **design-template** → [github.com/Chapter-39/design-template](https://github.com/Chapter-39/design-template) (🦆 Public template)
-- **docs** → [github.com/Chapter-39/docs](https://github.com/Chapter-39/docs) (🦉 Private repo)
-- **landing-template** → [github.com/Chapter-39/landing-template](https://github.com/Chapter-39/landing-template) (🦆 Public template)
-- **minimal-template** → [github.com/Chapter-39/minimal-template](https://github.com/Chapter-39/minimal-template) (🦆 Public template)
-- **shared-template** → [github.com/Chapter-39/shared-template](https://github.com/Chapter-39/shared-template) (🦆 Public template)
+- **app-template** → [github.com/Chapter-39/app-template](https://github.com/Chapter-39/app-template) 🦆 Public template
+- **backend-template** → [github.com/Chapter-39/backend-template](https://github.com/Chapter-39/backend-template) 🦆 Public template
+- **design-template** → [github.com/Chapter-39/design-template](https://github.com/Chapter-39/design-template) 🦆 Public template
+- **landing-template** → [github.com/Chapter-39/landing-template](https://github.com/Chapter-39/landing-template) 🦆 Public template
+- **minimal-template** → [github.com/Chapter-39/minimal-template](https://github.com/Chapter-39/minimal-template) 🦆 Public template
+- **shared-template** → [github.com/Chapter-39/shared-template](https://github.com/Chapter-39/shared-template) 🦆 Public template
 
 ---
 
