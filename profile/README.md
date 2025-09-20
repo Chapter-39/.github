@@ -30,7 +30,7 @@ Our templates are designed to be:
 ### Organization Resources
 
 - [**.github**](https://github.com/Chapter-39/.github) - Contains the profile README and shared GitHub configurations.
-- [**docs**](https://github.com/Chapter-39/docs) - Documentation site for Chapter 39 projects. 🔒Private??
+- [**docs**](https://github.com/Chapter-39/docs) - Documentation site for Chapter 39 projects. 🔒 Private
 
 ---
 
