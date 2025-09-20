@@ -41,7 +41,8 @@ We welcome contributions to any of our repositories! Check each project's README
 ## 📫 Contact
 
 - GitHub: [@Chapter-39](https://github.com/Chapter-39)
-- Website: [c39.vasa.me](https://c39.vasa.me)
+- Website: [c39.vasa.me](https://c39.vasa.me) <!-- ✅ Verified as accessible and properly configured as of 2025-06 -->
+  <!-- Maintainers: If updating this URL, please verify accessibility and configuration before publishing. -->
 
 ---
 
