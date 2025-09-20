@@ -40,7 +40,7 @@ We welcome contributions to any of our repositories! Check each project's README
 ## 📫 Contact
 
 - GitHub: [@Chapter-39](https://github.com/Chapter-39)
-- Website: [chapter39.dev](https://chapter39.dev)
+- Website: [chapter39.dev](https://c39.vasa.me)
 
 ---
 
