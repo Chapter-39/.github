@@ -7,12 +7,12 @@ The goal is to keep a common, modular foundation so we don't reinvent the wheel 
 
 ## 🔹 Repositories
 
-- **app-template** → [github.com/Chapter-39/app-template](https://github.com/Chapter-39/app-template): Frontend template (webapp + Capacitor)
-- **backend-template** → [github.com/Chapter-39/backend-template](https://github.com/Chapter-39/backend-template): Backend template
-- **design-template** → [github.com/Chapter-39/design-template](https://github.com/Chapter-39/design-template): Design assets template
-- **landing-template** → [github.com/Chapter-39/landing-template](https://github.com/Chapter-39/landing-template): Landing page template
-- **minimal-template** → [github.com/Chapter-39/minimal-template](https://github.com/Chapter-39/minimal-template): Minimal base template
-- **shared-template** → [github.com/Chapter-39/shared-template](https://github.com/Chapter-39/shared-template): Shared styles and types template
+[**backend-template**](https://github.com/Chapter-39/backend-template) - Minimal, opinionated starter kit for modern Node.js backends.  
+[**app-template**](https://github.com/Chapter-39/app-template) - Hybrid mobile app template using Vue 3, Vite, and Capacitor.  
+[**shared-template**](https://github.com/Chapter-39/shared-template) - Shared styles and types for web and mobile projects.  
+[**landing-template**](https://github.com/Chapter-39/landing-template) - Vite-based landing page template with GitHub Pages deploy.  
+[**design-template**](https://github.com/Chapter-39/design-template) - Design system scaffold with SCSS, linting, formatting, and CI.  
+[**minimal-template**](https://github.com/Chapter-39/minimal-template) - Minimal template with ESLint + Prettier and CI via GitHub Actions.
 
 ---
 
@@ -27,18 +27,20 @@ The goal is to keep a common, modular foundation so we don't reinvent the wheel 
 
 ## 🌐 Sites and deployments
 
-- [Main landing](https://c39.vasa.me)
+- [Landing page](https://c39.vasa.me)
 - [Web app](https://wa-c39.vasa.me)
-- [Personal landing](https://vasa.me)
+- [Personal page](https://vasa.me)
 
 ---
 
 ## 🛠️ Technologies
 
-- **JavaScript / TypeScript**
+- **TypeScript**
 - **SCSS** for shared styles
-- **Node.js** for backend
+- **Node.js** and **Express** for backend
+- **Prisma** with **PostgreSQL** for database
 - **Vue 3** for frontend
+- **Capacitor** for mobile (iOS/Android)
 - **GitHub Actions** for CI/CD
 - **Vitest** for unit tests; **Playwright** for E2E
 
@@ -51,16 +53,20 @@ The goal is to keep a common, modular foundation so we don't reinvent the wheel 
 - Sign in with Apple: OAuth callback, token verification, and S2S notifications.
   - Endpoints: `/auth/apple/callback`, `/auth/apple/token`, `/auth/apple/notifications`.
 - User management: `/me/sync` get/update/delete to sync user profile/settings and refresh token.
-- AI chat: SSE chat route with retry, price calc, and persistence (conversations/messages).
-- Observability: structured logging (nubo-logger), Sentry hooks, and rate limiting where needed.
+- Observability: structured logging (logger), Sentry hooks, and rate limiting where needed.
 
 ---
 
-## 🎨 Frontend
+## 🎨 App
 
 - App template: Vue 3 + TypeScript with Vite, Vitest/Playwright, ESLint/Prettier.
   - Mobile: Capacitor-ready (iOS/Android) with example composables.
   - Auth UI: Apple login for web/native and post-login route handler.
+
+---
+
+## 🧺 Utilities
+
 - Landing template: Vite-based landing with CI and GitHub Pages deploy.
 - Shared template: SCSS styles and TypeScript types, packaged for reuse.
 - Design template: minimal design scaffold with lint/format/CI.
