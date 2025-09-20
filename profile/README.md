@@ -30,6 +30,7 @@ Our templates are designed to be:
 ### Organization Resources
 
 - [**.github**](https://github.com/Chapter-39/.github) - Contains the profile README and shared GitHub configurations.
+- [**docs**](https://github.com/Chapter-39/docs) - Documentation site for Chapter 39 projects. 🔒Private??
 
 ---
 
@@ -40,7 +41,7 @@ We welcome contributions to any of our repositories! Check each project's README
 ## 📫 Contact
 
 - GitHub: [@Chapter-39](https://github.com/Chapter-39)
-- Website: [chapter39.dev](https://c39.vasa.me)
+- Website: [c39.vasa.me](https://c39.vasa.me)
 
 ---
 
