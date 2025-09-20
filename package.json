@@ -1,6 +1,7 @@
 {
   "name": "minimal-template",
-  "version": "0.1.0",
+  "version": "1.0.0",
+  "description": "Contains the profile README displayed on the organization page.",
   "private": true,
   "type": "module",
   "scripts": {
