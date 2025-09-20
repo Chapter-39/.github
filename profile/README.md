@@ -26,6 +26,7 @@ Our templates are designed to be:
 - [**landing-template**](https://github.com/Chapter-39/landing-template) - Vite-based landing page template with GitHub Pages deploy.
 - [**design-template**](https://github.com/Chapter-39/design-template) - Design system scaffold with SCSS, linting, formatting, and CI.
 - [**minimal-template**](https://github.com/Chapter-39/minimal-template) - Minimal template with ESLint + Prettier and CI via GitHub Actions.
+- [**workflows-template**](https://github.com/Chapter-39/workflows-template) - Centralized reusable GitHub workflows for Chapter 39 projects.
 
 ### Organization Resources
 
