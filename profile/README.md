@@ -7,12 +7,12 @@ The goal is to keep a common, modular foundation so we don't reinvent the wheel 
 
 ## 🔹 Repositories
 
-[**backend-template**](https://github.com/Chapter-39/backend-template) - Minimal, opinionated starter kit for modern Node.js backends.  
-[**app-template**](https://github.com/Chapter-39/app-template) - Hybrid mobile app template using Vue 3, Vite, and Capacitor.  
-[**shared-template**](https://github.com/Chapter-39/shared-template) - Shared styles and types for web and mobile projects.  
-[**landing-template**](https://github.com/Chapter-39/landing-template) - Vite-based landing page template with GitHub Pages deploy.  
-[**design-template**](https://github.com/Chapter-39/design-template) - Design system scaffold with SCSS, linting, formatting, and CI.  
-[**minimal-template**](https://github.com/Chapter-39/minimal-template) - Minimal template with ESLint + Prettier and CI via GitHub Actions.
+- [**backend-template**](https://github.com/Chapter-39/backend-template) - Minimal, opinionated starter kit for modern Node.js backends.
+- [**app-template**](https://github.com/Chapter-39/app-template) - Hybrid mobile app template using Vue 3, Vite, and Capacitor.
+- [**shared-template**](https://github.com/Chapter-39/shared-template) - Shared styles and types for web and mobile projects.
+- [**landing-template**](https://github.com/Chapter-39/landing-template) - Vite-based landing page template with GitHub Pages deploy.
+- [**design-template**](https://github.com/Chapter-39/design-template) - Design system scaffold with SCSS, linting, formatting, and CI.
+- [**minimal-template**](https://github.com/Chapter-39/minimal-template) - Minimal template with ESLint + Prettier and CI via GitHub Actions.
 
 ---
 
