@@ -27,7 +27,7 @@ jobs:
       - name: Install dependencies
         run: npm ci
         env:
-          NODE_AUTH_TOKEN: ${{ secrets.PKG_GH_READ }}
+          NODE_AUTH_TOKEN: ${{ github.token }}
 
       - name: Lint
         run: npm run lint
